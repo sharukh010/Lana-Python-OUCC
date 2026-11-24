@@ -1,0 +1,25 @@
+Create five variables named 
+book1 
+book2 
+book3 
+book4 
+book5 
+store your top 5 fav book names inside them 
+after storing them print them in the following format 
+
+This are my Top-5 fav books: 
+Book-1: Harry Potter 
+Book-2: Harry Potter 
+Book-3: Harry Potter 
+Book-4: Harry Potter 
+Book-5: Harry Potter 
+
+
+sample input: 
+book1: Harry Potter 
+book2: spider man 
+...
+sample output: 
+Book-1: Harry Potter 
+Book-2: spider man 
+.. 
